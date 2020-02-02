@@ -1,2 +1,24 @@
-# manifiesto
-Una Web para todas las personas
+# Una Web para todas las personas
+
+**"La Web es la humanidad conectada por la tecnología."** ― Sir Tim Berners-Lee
+
+Este es un sitio web. Y está compuesto por palabras, las que estás leyendo o escuchando ahora mismo. Podrás hacerlo desde otro lugar, otro dispositivo, otro idioma, en otro momento: a tu manera. Pero las estás recibiendo porque tienen un espacio en la Web.
+
+Tener un espacio en la Web significa tener una voz. Tener una voz significa visibilidad, oportunidades, presencia, existir. Nos preguntamos lo que implica ser una persona digital. Lo que implica tener una voz y un espacio. Lo que implica no tenerlos.
+
+Queremos dar un espacio igualitario a todas las personas, en especial a las que todavía no tuvieron oportunidad de expresar sus palabras. De existir digitalmente. De tener sus espacios. Espacios que deberán ser:
+
+- Seguros
+- Accesibles
+- Inclusivos
+- Diversos
+- Autónomos
+- Personalizables
+- Libres
+- De y para las personas
+
+Esa es nuestra visión como **Pleiz**: una mirada humana a nuestros espacios digitales. Una mirada humana para los espacios que ya están en la Web, para los que se están creando, y para los que se vendrán.
+
+Es momento de replantearnos y de construir, paso a paso, la humanidad conectada por la tecnología: porque la Web es para todas las personas. 
+
+Comencemos.
